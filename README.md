@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2imTBM2k4
-- 👀 I’m interested in 
-- 🌱 I’m currently learning HTML,C==,Java
+- 👀 I’m interested in Gamr, Technology,... 
+- 🌱 I’m currently learning HTML,C++,Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 facebook.com/TBM.profile
 
